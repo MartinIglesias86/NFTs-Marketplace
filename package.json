@@ -1,0 +1,8 @@
+{
+  "name": "platzi-punks",
+  "version": "1.0.0",
+  "description": "Marketplace of NFTs",
+  "main": "index.js",
+  "author": "martin_codes86",
+  "license": "MIT"
+}
